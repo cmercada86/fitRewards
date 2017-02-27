@@ -1,6 +1,12 @@
-angular.controller('WelcomeCtrl', function($scope, $state, UserService, $ionicLoading) {
+angular
+  .controller('loginController',loginController);
+                   
+loginController.$inject=['$scope','$state','fitService','$ionicLoading']
+
+function loginController($scope, $state, fitService, $ionicLoading) {
+  var vm = this;
   // This method is executed when the user press the "Sign in with Google" button
-  $scope.googleSignIn = function() {
+  vm.googleSignIn = function() {
     $ionicLoading.show({
       template: 'Logging in...'
     });
