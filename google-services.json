@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "782465680764",
+    "project_id": "acquired-winter-159813"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782465680764:android:bac662da36a09498",
+        "android_client_info": {
+          "package_name": "com.ionicframework.fitrewardsdcf08faf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782465680764-290n2aqcupkcns68lhp121l3kh4r9a0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ionicframework.fitrewardsdcf08faf",
+            "certificate_hash": "c1d929b1358ea84f0e0718384a48aaae90411d76"
+          }
+        },
+        {
+          "client_id": "782465680764-6unc64eu5mgvetva9j7ec1iq6s4f4st2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZILuJ2ClFuXgcNUypns6bjDxowG3DFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
